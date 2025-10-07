@@ -1,16 +1,17 @@
 body {
-    background-color: #571528;
-    color: rgb(201, 192, 192);
+    background-color: #a3a9c2;
+    color: rgb(70, 64, 64);
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 700px;
     margin: 0;
+    
 }
 
 button {
-    background-color: #0a2663;
+    background-color: #88724a;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
 }
@@ -29,5 +30,5 @@ main {
 }
 
 img {
-    max-width: 30%;
+    max-width: 48%;
 }
